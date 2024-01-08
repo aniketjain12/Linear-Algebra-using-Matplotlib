@@ -1,6 +1,7 @@
 Linear Algebra
   - Vectors
   - Linear Combinations
+  - Plotting Matrix Multiplications
 
 Adding, Multiplying and displaying Vectors using numpy and matplotlib.
 
