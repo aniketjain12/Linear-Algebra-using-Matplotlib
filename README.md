@@ -10,4 +10,4 @@ The Linear Combination is a multiplication of a scalar to a variable and additio
 Problem: Multiplying Vectors and Matrices for calculating rate of Currency from different Countries.
 
 Resource:
-- Wikipedia: https://en.wikipedia.org/wiki/Linear_algebra
+- Wikipedia(Linear Algebra): https://en.wikipedia.org/wiki/Linear_algebra
